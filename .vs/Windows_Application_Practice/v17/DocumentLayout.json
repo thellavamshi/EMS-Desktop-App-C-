@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4A7A3-8605-4B3A-A21C-2C1654805A94}|Windows_Application_Practice\\Windows_Application_Practice.csproj|c:\\users\\dell\\onedrive\\desktop\\projects\\windows_application_practice\\windows_application_practice\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4A7A3-8605-4B3A-A21C-2C1654805A94}|Windows_Application_Practice\\Windows_Application_Practice.csproj|solutionrelative:windows_application_practice\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4A7A3-8605-4B3A-A21C-2C1654805A94}|Windows_Application_Practice\\Windows_Application_Practice.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\windows_application_practice\\adminregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1F4A7A3-8605-4B3A-A21C-2C1654805A94}|Windows_Application_Practice\\Windows_Application_Practice.csproj|solutionrelative:windows_application_practice\\adminregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4A7A3-8605-4B3A-A21C-2C1654805A94}|Windows_Application_Practice\\Windows_Application_Practice.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\windows_application_practice\\adminregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4A7A3-8605-4B3A-A21C-2C1654805A94}|Windows_Application_Practice\\Windows_Application_Practice.csproj|solutionrelative:windows_application_practice\\adminregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4A7A3-8605-4B3A-A21C-2C1654805A94}|Windows_Application_Practice\\Windows_Application_Practice.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\windows_application_practice\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1F4A7A3-8605-4B3A-A21C-2C1654805A94}|Windows_Application_Practice\\Windows_Application_Practice.csproj|solutionrelative:windows_application_practice\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4A7A3-8605-4B3A-A21C-2C1654805A94}|Windows_Application_Practice\\Windows_Application_Practice.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\windows_application_practice\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1F4A7A3-8605-4B3A-A21C-2C1654805A94}|Windows_Application_Practice\\Windows_Application_Practice.csproj|solutionrelative:windows_application_practice\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4A7A3-8605-4B3A-A21C-2C1654805A94}|Windows_Application_Practice\\Windows_Application_Practice.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\windows_application_practice\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4A7A3-8605-4B3A-A21C-2C1654805A94}|Windows_Application_Practice\\Windows_Application_Practice.csproj|solutionrelative:windows_application_practice\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4A7A3-8605-4B3A-A21C-2C1654805A94}|Windows_Application_Practice\\Windows_Application_Practice.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\windows_application_practice\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1F4A7A3-8605-4B3A-A21C-2C1654805A94}|Windows_Application_Practice\\Windows_Application_Practice.csproj|solutionrelative:windows_application_practice\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4A7A3-8605-4B3A-A21C-2C1654805A94}|Windows_Application_Practice\\Windows_Application_Practice.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\windows_application_practice\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1F4A7A3-8605-4B3A-A21C-2C1654805A94}|Windows_Application_Practice\\Windows_Application_Practice.csproj|solutionrelative:windows_application_practice\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 348,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\Windows_Application_Practice\\AdminRegistration.cs",
+              "RelativeDocumentMoniker": "Windows_Application_Practice\\AdminRegistration.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\Windows_Application_Practice\\AdminRegistration.cs",
+              "RelativeToolTip": "Windows_Application_Practice\\AdminRegistration.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAjwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T12:37:24.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\Windows_Application_Practice\\AdminRegistration.cs",
+              "RelativeDocumentMoniker": "Windows_Application_Practice\\AdminRegistration.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\Windows_Application_Practice\\AdminRegistration.cs [Design]",
+              "RelativeToolTip": "Windows_Application_Practice\\AdminRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T12:37:22.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\Windows_Application_Practice\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "Windows_Application_Practice\\AddEmployee.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\Windows_Application_Practice\\AddEmployee.cs [Design]",
+              "RelativeToolTip": "Windows_Application_Practice\\AddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:29:13.029Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\Windows_Application_Practice\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "Windows_Application_Practice\\AddEmployee.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\Windows_Application_Practice\\AddEmployee.cs",
+              "RelativeToolTip": "Windows_Application_Practice\\AddEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T23:11:08.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\Windows_Application_Practice\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Windows_Application_Practice\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\Windows_Application_Practice\\AdminDashboard.cs",
+              "RelativeToolTip": "Windows_Application_Practice\\AdminDashboard.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:26:21.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\Windows_Application_Practice\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Windows_Application_Practice\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\Windows_Application_Practice\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "Windows_Application_Practice\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:55:59.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\Windows_Application_Practice\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "Windows_Application_Practice\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\Windows_Application_Practice\\AdminLogin.cs [Design]",
+              "RelativeToolTip": "Windows_Application_Practice\\AdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:55:54.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\Windows_Application_Practice\\HomePage.cs",
+              "RelativeDocumentMoniker": "Windows_Application_Practice\\HomePage.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Projects\\Windows_Application_Practice\\Windows_Application_Practice\\HomePage.cs [Design]",
+              "RelativeToolTip": "Windows_Application_Practice\\HomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:46:04.423Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 18,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
